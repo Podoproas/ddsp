@@ -6,5 +6,5 @@ notifications:
 go:
   - master
 
-script: make test
+script: make test-node
 
